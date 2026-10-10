@@ -311,7 +311,9 @@ var arr1 = arr.find((num) => num >25)
 
 var arr1 = arr.some((num) => num >40)
 
-var arr1 = arr.every((num) => num >4)
+var arr1 = arr.every((num
+    
+) => num >4)
 
 // Functions 
 
@@ -350,6 +352,10 @@ var inp = document.getElementsByTagName(h1)
 var inp = document.getElementById("num1")
 let inp = document.querySelector("#title")
 let inp = document.querySelectorAll(".item")
+
+
+
+
 
 
 
