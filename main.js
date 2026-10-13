@@ -343,15 +343,7 @@ var fun = function add(a,b)
 var fun1 = (a,b) => a+b
 console.log(fun1(4,3))
 
-// DOM Concepts
 
-var inp = document.getElementById("num1")
-console.log(inp.textContent)
-var inp = document.getElementsByClassName("item")
-var inp = document.getElementsByTagName(h1)
-var inp = document.getElementById("num1")
-let inp = document.querySelector("#title")
-let inp = document.querySelectorAll(".item")
 
 
 
